@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>警告：铃币地址无效</translation>
+        <translation>警告：冒险币地址无效</translation>
     </message>
     </context>
 <context>

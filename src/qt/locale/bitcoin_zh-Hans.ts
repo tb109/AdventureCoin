@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>选择发送铃币地址</translation>
+        <translation>选择要发送冒险币的地址</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>选择接收铃币地址</translation>
+        <translation>选择要接收冒险币的地址</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>这是你的铃币发币地址。发送前请确认发送数量和接收地址</translation>
+        <translation>这是你用于付款过去的冒险币发送地址。发送前请确认发送数量和接收地址</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>这是你的铃币接收地址。建议每次交易都使用新地址</translation>
+        <translation>这是你用于收款的冒险币接收地址。建议每次交易都使用新地址</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
